@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>complications</key>
+	<dict/>
+	<key>customization</key>
+	<dict>
+		<key>color</key>
+		<string>red</string>
+		<key>content</key>
+		<string>Mickey Mouse</string>
+	</dict>
+	<key>face type</key>
+	<string>Mickey Mouse</string>
+	<key>version</key>
+	<real>4</real>
+</dict>
+</plist>

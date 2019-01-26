@@ -1,0 +1,9 @@
+Package: com.atwiiks.squeaktime
+Name: SqueakTime
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Apple Watch Clocks on your LockScreen
+Maintainer: ATWiiks
+Author: ATWiiks
+Section: Tweaks

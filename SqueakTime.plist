@@ -1,0 +1,6 @@
+{ Filter = {
+  Executables = ( );
+  Bundles = ( "com.apple.springboard", "com.apple.Bridge" );
+  Mode = "Any";
+}; }
+
